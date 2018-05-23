@@ -1,0 +1,8 @@
+_id: a82ba740-5e83-11e8-bff3-cf20643057a6
+name: test
+comment: 'Могу посоветовать Вам заказать test вот <a href="http://test.ru">здесь</a>'
+product: test
+date: '2018-05-23T12:20:19.343Z'
+timestamp: 1527078019
+tags:
+  - comment-subscription
