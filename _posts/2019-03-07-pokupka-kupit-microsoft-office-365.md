@@ -1,5 +1,5 @@
 ---
 layout: post 
-title: Как лучше упить microsoft office 365 
+title: Как лучше купить microsoft office 365 
 --- 
 Возникла необходимость купить microsoft office 365 . Раньше с таким не сталкивались. Кто подскажет, стоящая штука?
